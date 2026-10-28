@@ -1,2 +1,5 @@
 # fokhrolislam.github.io
-Portfolio site of Fokhrol Islam: Sabaq, client builds, rescues and open source.
+
+Portfolio site: https://fokhrolislam.github.io
+
+Plain HTML and CSS, no build step. Screenshots are WebP in `img/`.
